@@ -1,5 +1,5 @@
 context:
-  version: "0.18.2"
+  version: "0.18.3"
 
 package:
   name: arethetypeswrong-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@arethetypeswrong/cli/-/cli-${{ version }}.tgz
-  sha256: 44a65eff6118aa4128a46ec9f76dbdc89236ce4ba581a8d2b35e4a76c191d582
+  sha256: 754c707c72b1393b0deaa097829f971eaac26b7c4dfd4cc2dd069e960fed99e4
 
 build:
   number: 0
